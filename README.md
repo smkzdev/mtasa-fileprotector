@@ -1,5 +1,5 @@
 
-# File Protector MTA:SA
+# File Protector MTA-SA
 
 Project developed with the purpose of protecting server files that are models, textures, images.
 
